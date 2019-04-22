@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_item_1"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_mode_1"/>
+    <item
+        android:id="@+id/action_item_2"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_mode_2"/>
+    <item
+        android:id="@+id/action_item_3"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_mode_3"/>
+
+</menu>
